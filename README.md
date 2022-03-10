@@ -85,11 +85,11 @@ Keep your cloned repo up-to date by pulling from upstream (this will also avoid 
 git pull origin main
 ```
 
-#### Step 5: Contribute
+#### Step 4: Contribute
 
 Make relevant changes according to the issue that you were assigned on. Contribute in any way you feel like :)
 
-#### Step 6: Committing and Pushing
+#### Step 5: Committing and Pushing
 
 Once you have modified an existing file or added a new file to the project, you can add it to your local repository, which we can do with the git add command.
 
@@ -111,7 +111,7 @@ At this point you can use the git push command to push the changes to the curren
 git push origin <branch-name>
 ```
 
-#### Step 7: Create Pull Request
+#### Step 6: Create Pull Request
 
 Now, you are ready to make a pull request to the original repository.
 
